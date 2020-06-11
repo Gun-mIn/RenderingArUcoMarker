@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(87,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(88,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(92,17): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(92,13): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(94,16): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(94,13): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(96,16): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(96,13): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(98,17): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(98,13): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(141,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(146,70): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(145,68): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(250,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\FINAL_Camera_Calibration_Practice\main.cpp(570,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  20 of 294 functions ( 6.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  FINAL_Camera_Calibration_Practice.vcxproj -> C:\Users\Gwon\Desktop\20-1학기\독립심화\[NEW FINAL]Camera_Calibration_Practice\Release\FINAL_Camera_Calibration_Practice.exe
